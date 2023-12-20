@@ -1,4 +1,5 @@
 # Hello 👋, I'm Joel Panisello
+![alt text](https://github.com/Bytheface1/Bytheface1/banner.png?raw=true)
 
 Welcome to my GitHub repository. I'm a graduate in Computer Engineering and I have a passion in Android development.
 
