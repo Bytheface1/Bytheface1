@@ -1,26 +1,26 @@
-# Hola 👋, soy Joel Panisello
+# Hello 👋, I'm Joel Panisello
 
-Bienvenido a mi repositorio de GitHub. Soy graduado en Ingeniería Informática y me especializo en el desarrollo de Android.
+Welcome to my GitHub repository. I'm a graduate in Computer Engineering and I have a passion in Android development.
 
-## 🎓 Educación
+## 🎓 Education
 
-- Graduado en Ingeniería Informática
+- Graduate in Software Engineering
 
-## 💼 Experiencia
+## 💼 Experience
 
-Me he centrado principalmente en el desarrollo de Android, creando aplicaciones intuitivas y eficientes.
+I have mainly focused on Android development, creating intuitive and efficient applications.
 
-## 🛠 Habilidades técnicas
+## 🛠 Technical Skills
 
-- Desarrollo de Android
+- Android Development
 - Java
 - Kotlin
 - Firebase
 - Git & GitHub
 - Jetpack Compose
 
-## 📫 Contacto
+## 📫 Contact
 
-Si tienes alguna pregunta o simplemente quieres ponerte en contacto conmigo, no dudes en enviarme un mensaje.
+If you have any questions or just want to get in touch with me, feel free to send me a message.
 
-¡Gracias por visitar mi perfil!
+Thanks for visiting my profile!
