@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hola 👋, soy Joel Panisello
 
-<!--
-**Bytheface1/Bytheface1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi repositorio de GitHub. Soy graduado en Ingeniería Informática y me especializo en el desarrollo de Android.
 
-Here are some ideas to get you started:
+## 🎓 Educación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Graduado en Ingeniería Informática
+
+## 💼 Experiencia
+
+Me he centrado principalmente en el desarrollo de Android, creando aplicaciones intuitivas y eficientes.
+
+## 🛠 Habilidades técnicas
+
+- Desarrollo de Android
+- Java
+- Kotlin
+- Firebase
+- Git & GitHub
+- Jetpack Compose
+
+## 📫 Contacto
+
+Si tienes alguna pregunta o simplemente quieres ponerte en contacto conmigo, no dudes en enviarme un mensaje.
+
+¡Gracias por visitar mi perfil!
